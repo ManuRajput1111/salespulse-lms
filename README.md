@@ -2,7 +2,7 @@
 
 A full-stack Lead Management System (CRM) built with Supabase + vanilla JavaScript — designed for a sales team to manage their entire pipeline, automate follow-ups, and track performance.
 
-🔗 **Live Demo:** [tumhara Netlify link]
+🔗 **Live Demo:** [salespulse-lms-demo.netlify.app]
 👀 **Try it instantly:** Click "Continue as Guest" on the login screen — no signup needed.
 
 ## Features
