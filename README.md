@@ -21,9 +21,3 @@ Frontend: HTML, CSS, Vanilla JS, Chart.js
 Backend: Supabase (PostgreSQL, Auth, RLS, Storage, Edge Functions)
 Email: SendGrid | Hosting: Netlify
 
-## Screenshots
-![Dashboard](screenshots/LMS1.png)
-![Dashboard](screenshots/LMS2.png)
-![Dashboard](screenshots/LMS3.png)
-![Dashboard](screenshots/LMS4.png)
-![Analytics](screenshots/LMS5.png)
